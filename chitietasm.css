@@ -1,0 +1,95 @@
+body {
+	background-image: url("http://banggiabanhtrungthu.com/upload/backgrounds/nhom1_5.jpg");
+	background-repeat: no-repeat;
+	background-position: center-top;
+	background-attachment: fixed;
+	font-family: "Times New Roman", Times, serif;
+}
+section {
+	margin: 0 12%;
+	background-image: url("http://www.banhngoncaocap.com/templates/sj_market/images/styling/red/bn_bg_partern_01.png");
+}
+.phantren h3 {
+	color: #ff0000;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 30px;
+}
+.phantren p {
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: justify;
+	text-indent: 7px;
+}
+.chemgio {
+	box-sizing: border-box;
+	border: 1px dotted green;
+	border-radius: 30px;
+	margin: 0 30px;
+}
+.phantren h4 {
+	color: #ff0000;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.phanduoi {
+	display: inline-block;
+}
+.phanduoi img {
+	box-sizing: border-box;
+	vertical-align: middle;
+}
+.phanduoi .motasanpham {
+	max-width: 50%;
+	border: 1px dashed #b9121b;
+	border-radius: 5px;
+	float: right;
+	margin-right: 30px;
+	padding: 5px;
+	clear: both;
+}
+.phanduoi .motasanpham p {
+	font-weight: bold;
+	font-size: 14px;
+}
+.phanduoi .motasanpham h2 {
+	color: #e61111;
+	margin-bottom: 0;
+	margin-top: 5px;
+}
+.conhang {
+	color: #b9121b;
+	font-size: 20px;
+}
+.gia {
+	font-size: 25px;
+	color: #e61111;
+}
+.phanduoi .motasanpham h4 {
+	margin: 10px 0 10px 20px;
+	font-size: 23px;
+}
+.finish {
+	border: 1px dashed #b9121b;
+	box-sizing: border-box;
+	margin: 30px 20px 20px 30px;
+	border-radius: 10px;
+	padding: 5px;
+}
+.finish p {
+	font-size: 15px;
+	font-style: italic;
+	text-indent: 7px;
+	text-align: justify;
+}
+.chitietasmbottom {
+	margin-top: 50px;
+}
+.chitietasmbottom .author {
+	background-image: url("http://www.banhngoncaocap.com/templates/sj_market/images/styling/red/bn_bg_partern_01.png");
+	display: inline-block;
+	width: 100%;
+}
